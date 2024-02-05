@@ -6,5 +6,5 @@ of height (or width) at a time. A vertical seam in an image is a path of pixels 
 bottom with one pixel in each row; a horizontal seam is a path of pixels connected from the left to the right
 with one pixel in each column.
 
-src: python notebook with complete implementation and test results
+src: python notebook with complete implementation and test results //
 images: Test images
