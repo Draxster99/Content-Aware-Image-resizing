@@ -1,4 +1,4 @@
-# Content-Aware-Image-resizing
+# Content-Aware-Image-Resizing
 Done as course requirement for Algorithms and Operating systems
 
 Seam-carving is a content-aware image resizing technique where the image is reduced in size by one pixel
